@@ -1,6 +1,6 @@
-# Svelte Electron template
+Chess table
 
-This is a boilerplate for [Svelte](https://svelte.dev/) using [ElectronJS](https://electronjs.org/), with [Storybook](https://storybook.js.org/) support.
+
 
 ## Usage
 
